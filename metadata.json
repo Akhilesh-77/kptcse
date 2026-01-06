@@ -1,0 +1,8 @@
+{
+  "name": "Official KPT CS Website",
+  "description": "The official digital hub for the Computer Science Department at KPT, providing information on faculty, academics, and departmental resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
